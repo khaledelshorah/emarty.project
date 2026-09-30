@@ -16,17 +16,10 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.emaraty.app",
-      "icon": "./assets/icon.png"
+      "bundleIdentifier": "com.emaraty.app"
     },
     "android": {
-      "package": "com.emaraty.app",
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "monochromeImage": "./assets/adaptive-icon-monochrome.png",
-        "backgroundColor": "#0F766E"
-      }
-    },
-    "icon": "./assets/icon.png"
+      "package": "com.emaraty.app"
+    }
   }
 }
