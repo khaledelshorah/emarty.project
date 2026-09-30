@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "عمارتي",
-    "slug": "emaraty",
-    "version": "1.0.0",
+    "name": "Emaraty App",
+    "slug": "emaraty-app",
+    "version": "1.0.0"
     "orientation": "portrait",
     "scheme": "emaraty",
     "userInterfaceStyle": "automatic",
